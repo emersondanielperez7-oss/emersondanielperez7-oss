@@ -1,5 +1,4 @@
-md
-<h1 align="center">Hi 👋, I'm Emerson Pérez</h1>
+<h1 align="center">Hi 👋, I´m Emerson Pérez</h1>
 <h3 align="center">💻 Software Development Student from El Salvador</h3>
 
 <p align="center">
